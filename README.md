@@ -29,7 +29,7 @@ Mencetak hasil penjumlahan a+b
 
 ![image3.png](/screenshot/ss3a.png)
 ![image4.png](/screenshot/ss3b.png)
-# input nilai variabel
+# input nilai variabell
 a= input ("masukan nilai a:")
 b= input ("masukan nilai b:")
 
